@@ -20,6 +20,7 @@ if (isset($_SESSION['username'])) {
             <p>Bài làm của Sinh Viên TRƯƠNG THỤC VÂN</p>
             <p>MSSV: 2080600803</p>
             <p>Lớp: 20DTHD3</p>
+            <p>Source Code: https://github.com/MeiCloudie/KTGK</p>
         </div>
 
         <hr />
